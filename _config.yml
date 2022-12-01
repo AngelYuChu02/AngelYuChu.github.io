@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: angelyuchu@gmail.com
 description: "Carnegie Mellon Univ. ECE Master's student | Looking for full-time opportunities in Project Management or Data Center Engineering"
 keyword: "Yu Chu, Angel Chu, 褚钰"
-url: "https://angelyuchu.github.io" # your host, for absolute URL
+url: "http://angelyuchu.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/AngelYuChu02/angelyuchu.github.io.git"
 
